@@ -12,25 +12,3 @@ System.out.println("Test class runs successfully with correct result");
 }
 
 
-
-~                                                                                                                                      
-
-~                                                                                                                                      
-
-~                                                                                                                                      
-
-~                                                                                                                                      
-
-~                                                                                                                                      
-
-~                                                                                                                                      
-
-~                                                                                                                                      
-
-~                                                                                                                                      
-
-~                                                                                                                                      
-
-~                                                                                                                                   ~                                                                                                               
-
-
